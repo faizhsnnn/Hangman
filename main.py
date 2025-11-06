@@ -1,5 +1,5 @@
 import random
-from askii import stages, logo
+from ascii import stages, logo
 from hangman_words import word_list
 
 print(logo)
